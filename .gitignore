@@ -1,0 +1,22 @@
+# builds
+node_modules
+dist
+.env
+pm2*json
+
+# logs
+*.log*
+npm-debug.log
+
+# temp
+tmp
+*.swp
+
+# editors
+.idea
+.project
+*.sublime-workspace
+.vscode
+
+# docker
+*override.yaml
