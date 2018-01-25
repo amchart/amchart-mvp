@@ -6,7 +6,7 @@ Read more at https://amchart.io
 
 AMCHART is a universal electronic health record (EHR) that's poised to change the way we access patient and provider records. It utilizes blockchain technology to eliminate the current problems with record systems, improving portability and migration of information, as well as transparency and accessibility. Our main objectives are for patients to have full control over their health records, and providers to have increased confidence that blockchain technology can provide to finally make the system whole.
 
-<iframe width="555" height="312" src="https://www.youtube.com/embed/IrGNT80iMMA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+[![Amchart Intro. Video](https://img.youtube.com/vi/IrGNT80iMMA/0.jpg)](http://www.youtube.com/watch?v=IrGNT80iMMA)
 
 ### Project Structure
 
