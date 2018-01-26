@@ -1,0 +1,39 @@
+{
+  "name": "amsysbc-transaction-ui",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A browser-based blockchain client",
+  "main": "",
+  "engines": {
+    "node": "8.9.x",
+    "npm": "5.6.x"
+  },
+  "scripts": {
+    "postinstall": "npm run build",
+    "watch": "webpack --env.dev",
+    "build": "webpack --env.production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amsysbc/javascript.git"
+  },
+  "license": "Apache-2.0",
+  "dependencies": {
+    "dotenv-webpack": "^1.5.4",
+    "file-api": "^0.10.4",
+    "fs": "0.0.1-security",
+    "intl-tel-input": "^12.1.6",
+    "jquery": "^3.2.1",
+    "web3": "^1.0.0-beta.26",
+    "mnid": "^0.1.1",
+    "request": "^2.83.0",
+    "truffle-contract": "^3.0.1",
+    "truffle-hdwallet-provider": "0.0.3",
+    "uport-connect": "^0.7.0",
+    "webpack": "^3.10.0",
+    "zeppelin-solidity": "^1.4.0"
+  },
+  "devDependencies": {
+    "prettier": "1.10.2"
+  }
+}

@@ -1,0 +1,6 @@
+printWidth: 80
+semi: true
+tabWidth: 2
+tabs: false
+singleQuote: true
+bracketSpacing: true
